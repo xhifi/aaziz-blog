@@ -5,8 +5,8 @@ copyright: Copyright © 1970-2010
 description: >-
   This is a basic client update blog service for the people of the UK by AAziz &
   Co. Accountants.
-baseurl: /aaziz-blog
-url: 'https://xhifi.github.io'
+baseurl: /
+url: 'blog.aazizandco.co.uk'
 favicon: ''
 yat:
   date_format: '%b %d, %Y'
