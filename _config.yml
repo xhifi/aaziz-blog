@@ -31,8 +31,8 @@ copyright: Copyright © 1970-2010
 description: >- # this means to ignore newlines until "baseurl:"
   This is a basic client update blog service for the people of the UK by AAziz & Co. Accountants.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/aaziz-blog" # the subpath of your site, e.g. /blog
+url: "https://xhifi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
@@ -128,10 +128,10 @@ theme_color: snowwhite
 
 # Page default value
 defaults:
- home:
-    heading: "Welcome to the AAziz & Co. Blog"
-    subheading: "Your awesome subheading"
-    banner: "Your image url"
+home:
+  heading: "Welcome to the AAziz & Co. Blog"
+  subheading: "Your awesome subheading"
+  banner: "Your image url"
 
 # Excerpt size setting
 # excerpt_size: 350
