@@ -7,7 +7,7 @@ description: >-
   Co. Accountants.
 baseurl: /
 url: 'blog.aazizandco.co.uk'
-favicon: ''
+favicon: 'assets/images/favicon.ico'
 yat:
   date_format: '%b %d, %Y'
 theme_color: snowwhite
@@ -20,7 +20,7 @@ home:
     verifying the legitimacy of the posts ourselves.
   banner: >-
     /assets/images/banners/home.jpg
-paginate: 5
+paginate: 10
 markdown: kramdown
 kmarkdown:
   input: GFM
