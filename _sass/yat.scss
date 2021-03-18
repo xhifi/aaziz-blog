@@ -2,7 +2,7 @@
 
 // Define defaults for each variable.
 
-$base-font-family: "Noto Sans Light", AppleSDGothicNeo-Regular, "Malgun Gothic", "Apple Color Emoji", Helvetica, Arial, Oswald, sans-serif, !default;
+$base-font-family: "Noto Sans", AppleSDGothicNeo-Regular, "Malgun Gothic", "Apple Color Emoji", Helvetica, Arial, Oswald, sans-serif, !default;
 $base-font-size: 14px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -68,3 +68,73 @@ $on-laptop:        800px !default;
   "misc/google-translate",
   "misc/gitment"
 ;
+.subfooter{
+
+}
+.clmn{
+  float: left;
+  padding: 10px 0;
+  height: auto;
+  @include media-query($on-palm) {
+    text-align: center;
+      }
+}
+.clmn:afer{
+  content: "";
+  display: table;
+  clear: both;
+}
+.c1{
+  width: 50%;
+  @include media-query($on-palm) {
+    width: 100%;
+    text-align: center;
+      }
+}
+.c2{
+  width: 50%;
+  @include media-query($on-palm) {
+    width: 100%;
+      }
+}
+.c1-1{
+  float: left;
+  padding: 0;
+  width: 50%;
+  @include media-query($on-palm) {
+    width: 100%;
+    text-align: center;
+      }
+}
+.c2-2{
+  padding: 0;
+  width: 50%;
+}
+.my-footer{
+  text-align: center;
+  padding: 20px 0 !important;
+  @include media-query($on-palm) {
+    width: 100%;
+      }
+}
+.custom-bottom-brand{
+  float: left;
+}
+.custom-bottom-brand{
+  float: left;
+  text-align: left;
+  line-height: 1.3;
+  @include media-query($on-palm){
+    text-align: left impo !important;
+  }
+}
+.brand-head{
+  font-weight: bold;
+  font-size: 16px;
+}
+.page-banner-heading{
+  @include media-query($on-palm){
+    line-height: 1.3;
+    margin-top: 50px;
+  }
+}

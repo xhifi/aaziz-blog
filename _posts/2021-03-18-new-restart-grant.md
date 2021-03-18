@@ -40,7 +40,7 @@ The government canceled business rates for all retail, leisure, and hospitality 
 * Restaurants, cafés, bars, pubs
 * Cinemas, live music venues
 * Assembly or leisure properties, like sports clubs, gyms, spas Gyms
-* Hospitality properties, like hotels, guest houses, self-catering accommodation.  
+* Hospitality properties, like hotels, guest houses, self-catering accommodation.  <br>
 After June 2021, business rates will be discounted for the remaining tax year 2021-22. There will be a 66 percent business rates reduction from 1 July 2021 to 31 March 2022, up to a maximum of £2 million for closed businesses.
 
 ### How do I get this support?  

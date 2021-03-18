@@ -3,7 +3,7 @@ layout: post
 title: Deferred VAT Payments deadline is 31st March, 2021
 subheading: hello world!
 author: Shifa ur Rehman
-categories: Updates
+categories: updates
 banner: https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1087&q=80
 tags: [covid, vat]
 sidebar: []
