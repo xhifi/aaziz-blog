@@ -7,7 +7,7 @@ description: >-
   Co. Accountants.
 baseurl: /
 url: 'blog.aazizandco.co.uk'
-favicon: 'assets/images/favicon.ico'
+favicon: 'https://aaziz-blog-data.s3.eu-west-2.amazonaws.com/%21CAUTION%21/favicon.ico'
 yat:
   date_format: '%b %d, %Y'
 theme_color: snowwhite
