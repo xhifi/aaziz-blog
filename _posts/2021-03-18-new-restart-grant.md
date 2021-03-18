@@ -3,7 +3,7 @@ layout: post
 title: New Restart grants announced by GOV.UK
 subtitle: From April 2021, a new 'restart grant' will be available for businesses in England to help reopen the high street after lockdown.
 author: Shifa ur Rehman
-categories: markdown
+categories: updates
 tags: [covid, grants]
 ---
 ![New Restart Grants Announced](https://tinyurl.com/yds7l6av "New Restart Grants Announced")  
