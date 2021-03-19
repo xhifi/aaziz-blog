@@ -80,7 +80,7 @@ The government has extended its initial ban on business evictions multiple times
 ### How do I get this support?
 Commercial tenants and landlords are being encouraged to come to voluntary arrangements on repayment.  
 Gov.uk makes it clear that this is protection from eviction if you cannot pay your commercial rent right now, because of the pandemic. It is not a rent holiday, and commercial tenants will still be liable for the rent.  
-For more information, please visit [GOV'UK][3]'s official take on this.
+For more information, please visit [GOV.UK][3]'s official take on this.
 
 
 
