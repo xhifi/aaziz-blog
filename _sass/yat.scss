@@ -157,8 +157,7 @@ $on-laptop:        800px !default;
   margin-bottom: 20px;
   filter: saturate(0%);
   @include media-query($on-palm){
-    margin: 0 auto;
-    margin-bottom: 20px;
+    margin: 20px auto;
   }
 }
 .custom-para{
