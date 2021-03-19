@@ -76,7 +76,6 @@ $on-laptop:        800px !default;
   padding: 10px 0;
   height: auto;
   @include media-query($on-palm) {
-    text-align: center;
       }
 }
 .clmn:afer{
@@ -88,13 +87,13 @@ $on-laptop:        800px !default;
   width: 50%;
   @include media-query($on-palm) {
     width: 100%;
-    text-align: center;
       }
 }
 .c2{
   width: 50%;
   @include media-query($on-palm) {
     width: 100%;
+    text-align: center;
       }
 }
 .c1-1{
@@ -103,7 +102,6 @@ $on-laptop:        800px !default;
   width: 50%;
   @include media-query($on-palm) {
     width: 100%;
-    text-align: center;
       }
 }
 .c2-2{
@@ -137,4 +135,13 @@ $on-laptop:        800px !default;
     line-height: 1.3;
     margin-top: 50px;
   }
+}
+.text-align-center-palm{
+  @include media-query($on-palm){
+    text-align: center;
+  }
+}
+.row-custom{
+  margin: 0 auto;
+  padding-left: 10px;
 }
