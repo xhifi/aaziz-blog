@@ -6,3 +6,5 @@ gemspec
 gem "rake", "~> 13.0"
 gem 'webrick'
 gem 'nokogiri'
+gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'

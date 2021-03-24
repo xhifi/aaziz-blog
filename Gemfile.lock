@@ -105,6 +105,8 @@ PLATFORMS
 DEPENDENCIES
   brainloggers!
   bundler (>= 1.6, < 3.0)
+  jekyll-seo-tag
+  jekyll-sitemap
   nokogiri
   rake (~> 13.0)
   webrick
