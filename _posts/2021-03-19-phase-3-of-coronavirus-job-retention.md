@@ -2,6 +2,7 @@
 layout: post
 title: PHASE 3 Of Corona Virus Job Retention Scheme
 subtitle: Please find the brief update on the extension of CJRS.
+author: Shifa ur Rehman
 categories: updates
 banner: https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1087&q=80
 tags: [covid, grants]
@@ -19,8 +20,7 @@ The CJRS was supposed to end on 30th April 2021 but considering the current circ
 
 ### How much you will be able to claim?
 *  You can claim 80% of the average wages from 1st of May 2021 to 30th   of June 2021.
-*  For July 2021 employers will be able to claim not more than 70% of average wages from 
-HMRC and employers will be asked to contribute.
+*  For July 2021 employers will be able to claim not more than 70% of average wages from HMRC and employers will be asked to contribute.
 *  For August 2021 and September 2021 employers will be able to claim not more than 60% of average wages from HMRC and employers will be asked to contribute.
 
 <div class="bg-danger">All furlough employees must receive at least 80% of the average wages from the employer. We will soon send you further information on the development of the scheme and future updates.</div>
