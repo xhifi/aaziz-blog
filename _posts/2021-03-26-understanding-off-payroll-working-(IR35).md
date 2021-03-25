@@ -23,7 +23,8 @@ You may be affected by these rules if you are:
 * A worker who provides their services through their intermediary
 * A client who receives services from a worker through their intermediary
 * An agency providing workers’ services through their intermediary
-If the rules apply, Income Tax and employee National Insurance contributions must be deducted from fees and paid to HMRC. In addition, employer National Insurance contributions and Apprenticeship Levy, if applicable, must also be paid to HMRC.<br>
+If the rules apply, Income Tax and employee National Insurance contributions must be deducted from fees and paid to HMRC. In addition, employer National Insurance contributions and Apprenticeship Levy, if applicable, must also be paid to HMRC.  
+
 The rules apply to all public sector clients and private sector companies that meet 2 or more of the following conditions:
 * You have a balance sheet total of more than £5.1 million
 * You have more than 50 employees
@@ -58,7 +59,7 @@ If a worker provides services to a small client in the private sector, the worke
 The changes affect you if you are an agency and you supply workers to:
 * Any public sector client
 * Medium and large-sized private sector clients
-* Another agency who supplies a worker for public sector clients or medium and large-sized private sector clients
+* Another agency who supplies a worker for public sector clients or medium and large-sized private sector clients  
 From 6 April 2021, medium and large-sized private sector clients receiving services from a worker will be responsible for:
 * M aking an employment status determination to decide if the rules apply
 * Telling the worker, and agency or other labour provider they contract with of their determination, with reasons for making the determination
