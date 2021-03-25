@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/eventmachine/eventmachine.git
+  revision: 9cb13a8a62363df5ebcc414169a3deb2c1608528
+  tag: v1.2.7
+  specs:
+    eventmachine (1.2.7)
+
 PATH
   remote: .
   specs:
@@ -19,8 +26,6 @@ GEM
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
-    eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
     ffi (1.15.0)
     ffi (1.15.0-x64-mingw32)
     forwardable-extended (2.6.0)
@@ -64,7 +69,7 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
-    listen (3.4.1)
+    listen (3.5.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
@@ -105,8 +110,10 @@ PLATFORMS
 DEPENDENCIES
   brainloggers!
   bundler (>= 1.6, < 3.0)
+  eventmachine (= 1.2.7)!
+  jekyll
+  jekyll-feed
   jekyll-seo-tag
-  jekyll-sitemap
   nokogiri
   rake (~> 13.0)
   webrick

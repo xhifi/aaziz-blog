@@ -30,3 +30,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+livereload: true     # You no longer need to include --livereload
