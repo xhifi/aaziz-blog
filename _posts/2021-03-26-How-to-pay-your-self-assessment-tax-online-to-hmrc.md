@@ -1,0 +1,17 @@
+---
+layout: post
+title: How to pay your Self Assessment Tax Online to HMRC
+subheading: In this guidance tutorial we will teach you how to easily submit and confirm your self-assessment tax to HMRC through their payments portal
+author: Ayesha Mughal
+categories: guidance
+banner: 
+sidebar: []
+---
+## How to pay your Self Assessment Tax Online to HMRC
+Since MTD (Make Tax Digital) was set into motion, it was made easier for the common citizen of the UK to pay their tax/penalties online directly through the website of HMRC. In this video our narrator (Ayesha Mughal) will show you how you can make a payment to HMRC regarding your self-assessment tax and confirm it till you receive an official invoice of your payment:  
+  
+![tutorial](https://aaziz-blog-data.s3.eu-west-2.amazonaws.com/Tutorial+Video's/finalized.mp4/how-to-pay-your-self-assessment-tax-to-hmrc-online.mp4)
+
+You can watch on youtube from here:
+
+![](//https://www.youtube.com/watch?v=A7Ui6K-sKTY)
