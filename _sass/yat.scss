@@ -170,4 +170,12 @@ $on-laptop:        800px !default;
 .bg-danger{
   background-color: red;
   color: white;
+  padding: 5px 10px;
+  font-weight: bold;
+}
+
+.indirect-home{
+  background-color:#fdfdfd;
+  color: black !important;
+  padding: 0px 3px;
 }
