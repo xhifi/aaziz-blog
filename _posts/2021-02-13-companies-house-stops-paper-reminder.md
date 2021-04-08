@@ -19,11 +19,11 @@ Companies should sign up to our email reminder service for annual accounts and c
 * Companies House will be no longer sending paper reminders.
 * The service is free, and you can choose up to 4 people to receive a reminder (including an agent) then file your document immediately from a link within the email.  
 
-## Reason Companies House Stopping the Letters </h2>
-<p> According to a statement of Companies House, they can save around £1.2 million each year. Companies House will use this amount to make their services and products more efficient and will improve their customer service so they can help us in a more affective way.</p>  
+## Reason Companies House Stopping the Letters
+According to a statement of Companies House, they can save around £1.2 million each year. Companies House will use this amount to make their services and products more efficient and will improve their customer service so they can help us in a more affective way.  
 
-## Director’s Responsibility </h2>
-<p> Directors have a legal responsibility to file certain documents on time at Companies House. Failure to do so can lead to the company receiving a late filing penalty, its directors being personally fined, prosecuted or disqualified or Companies House commencing proceedings to strike off the company.
+## Director’s Responsibility
+Directors have a legal responsibility to file certain documents on time at Companies House. Failure to do so can lead to the company receiving a late filing penalty, its directors being personally fined, prosecuted or disqualified or Companies House commencing proceedings to strike off the company.
 
 ## How to register for email reminders
 * Sign in to the "Companies House online filing service".
