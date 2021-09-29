@@ -16,6 +16,7 @@ sidebar: ''
 ## What is Value-Added Tax (VAT):
 
 A value-added tax (VAT) is collected on a product at every stage of its production during which value is added to it, from its initial production to the point of sale. The amount of VAT that the user pays is based on the cost of the product, less any costs of materials used in the product that have already been taxed at a previous stage.
+{: .bg-danger}
 
 ## Curent Update:
 
