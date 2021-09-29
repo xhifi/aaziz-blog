@@ -15,7 +15,7 @@ sidebar: ''
 
 ## What is Value-Added Tax (VAT):
 
-A value-added tax (VAT) is collected on a product at every stage of its production during which value is added to it, from its initial production to the point of sale. The amount of VAT that the user pays is based on the cost of the product, less any costs of materials used in the product that have already been taxed at a previous stage. {: .bg-danger}
+A value-added tax (VAT) is collected on a product at every stage of its production during which value is added to it, from its initial production to the point of sale. The amount of VAT that the user pays is based on the cost of the product, less any costs of materials used in the product that have already been taxed at a previous stage.
 
 ## Curent Update:
 
@@ -23,7 +23,8 @@ From 1 October 2021 to 31 March 2022, the temporary reduced rate will be increas
 
 VAT registered businesses in the hospitality industry will need to ensure that their tills and accounting systems are set up correctly to apply the increased rate of 12.5% from 1 October 2021 and then 20% from 1 April 2022
 
-##   
+## 
+
 Affected supplies:
 
 As a reminder of those supplies to which the temporary reduced rate applies:
@@ -38,7 +39,7 @@ As a reminder of those supplies to which the temporary reduced rate applies:
 To calculate the VAT element of a VAT inclusive supply that is subject to 12.5% VAT.  
 For example, the supply of a hotel room with a VAT inclusive price of £90 has a VAT element as follows:
 
-**_£90 x 12.5/112.5 = £10_**
+    £90 x 12.5/112.5 = £10
 
 ## VAT Flat Rate Scheme (FRS):
 
