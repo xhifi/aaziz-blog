@@ -4,7 +4,7 @@ title: VAT Rate Scheme Update
 subheading: 5% Reduced VAT rate for hospitality increasing on 1 October 2021
 author: Mirza Awais
 categories: updates
-banner: https://amz.run/4vq8
+banner: https://amz.run/4vq9
 tags:
 - updates
 - grants
