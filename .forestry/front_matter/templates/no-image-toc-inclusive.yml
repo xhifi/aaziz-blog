@@ -1,0 +1,28 @@
+---
+label: No Image - TOC Inclusive
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: subheading
+  label: subheading
+- type: text
+  name: author
+  label: author
+- type: text
+  name: categories
+  label: categories
+- type: text
+  name: banner
+  label: banner
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: sidebar
+  label: sidebar
