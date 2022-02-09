@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Updated News on Bounce Back loan Scheme
-subheading: Winding up Companines for obtaining Covid business support fraudulently
+subheading: Winding up Companies for obtaining Covid business support fraudulently
 author: Ayesha Mughal
 categories: updates
 banner: 
-tags: [covid, updates]
+tags:
+- covid
+- updates
 sidebar: []
+
 ---
 ![Bounce Back Loan Scheme](https://aaziz-blog-data.s3.eu-west-2.amazonaws.com/Images/Blog/bitmap.png "Bounce Back Loan Scheme")  
 
@@ -25,5 +28,4 @@ He revealed that the Insolvency Service will also soon have extra powers to inve
 
 The Ratings (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill, currently before Parliament, if passed will give the Insolvency Service powers to investigate, and if appropriate take action to disqualify directors of companies which have fraudulently claimed Bounce Back Loans but which have since been dissolved. This power will be retrospective to allow conduct that took place before the law comes into force to be investigated.  
 
-If wrongdoing or malpractice is found, directors can face sanctions including a \*ban of up to 15 years\*, and potentially criminal prosecution.  
-
+If wrongdoing or malpractice is found, directors can face sanctions including a \*ban of up to 15 years\*, and potentially criminal prosecution.
