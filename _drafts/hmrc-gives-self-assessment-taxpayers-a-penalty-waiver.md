@@ -12,7 +12,7 @@ tags:
 sidebar: ''
 
 ---
-# HMRC gives Self-Assessment taxpayers a Penalty Waiver
+## HMRC gives Self-Assessment taxpayers a Penalty Waiver
 
 **Late filing and late payment penalties are to be waived for one month for Self-Assessment taxpayers.**
 
