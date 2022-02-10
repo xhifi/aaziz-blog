@@ -5,10 +5,9 @@ subheading: The deadline to file a tax return is extended from 31st January 2022
   28th February 2022.
 author: Zumer Yasin
 categories: updates
-banner: ''
+banner: https://amz.run/5Izp
 tags:
 - updates
-- covid
 sidebar: ''
 
 ---
@@ -26,3 +25,5 @@ The deadline to file a tax return is extended from 31st January 2022 to 28th Feb
 Interest will be payable from 1 February, as usual, so it is still better to pay on time if possible.
 
 This year, like last year, HMRC is not charging late filing penalties for a month to help taxpayers and agents who are unable to meet the deadline. Late filing penalties will not be charged for online tax returns received by 28 February.
+
+_For source article from GOV.UK,_ [_click here_](https://bityl.co/AsWw "GOV.UK Official")
