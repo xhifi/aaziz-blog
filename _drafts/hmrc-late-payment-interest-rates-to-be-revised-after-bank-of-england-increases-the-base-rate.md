@@ -30,5 +30,6 @@ The current late payment and repayment interest rates applied to the main taxes 
 
 **_For Reference, please visit official GOV.UK forum through the following links:_**
 
-[GOV.UK | HMRC late payment interest rates to be revised after Bank of England increases base rate](https://www.gov.uk/government/news/hmrc-late-payment-interest-rates-to-be-revised-after-bank-of-england-increases-base-rate--2 "HMRC late payment interest rates to be revised after Bank of England increases base rate")  
-[GOV.UK | HMRC late payment and repayment interest rates](https://www.gov.uk/government/publications/rates-and-allowances-hmrc-interest-rates-for-late-and-early-payments/rates-and-allowances-hmrc-interest-rates "HMRC late payment and repayment interest rates")
+GOV.UK | [HMRC late payment interest rates to be revised after Bank of England increases base rate](https://www.gov.uk/government/news/hmrc-late-payment-interest-rates-to-be-revised-after-bank-of-england-increases-base-rate--2)
+
+GOV.UK | [HMRC late payment and repayment interest rates](https://www.gov.uk/government/publications/rates-and-allowances-hmrc-interest-rates-for-late-and-early-payments/rates-and-allowances-hmrc-interest-rates)
