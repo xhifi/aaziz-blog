@@ -23,13 +23,13 @@ sidebar: ''
 
 ### **Class 1 National Insurance Threshold from April 2022**
 
-**Lower Earnings Limit (LEL):** 
+**Lower Earnings Limit (LEL):**
 
-* £123 per week 
+* £123 per week
 * £533 per month
 * £6,396 per year
 
-#### Primary Threshold/Employee Threshold: 
+#### Primary Threshold/Employee Threshold:
 
 **From 6th April 2022 to 05th July 2023:**
 
@@ -38,11 +38,11 @@ sidebar: ''
 * £9,880 per year
 
 From 6th July 2022 to 05th April 2023:  
- **£242 per week  
- £1,048 per month  
- £12,570 per year**
+**£242 per week  
+£1,048 per month  
+£12,570 per year**
 
-**Secondary Threshold/Employer Threshold:** 
+**Secondary Threshold/Employer Threshold:**
 
 * £175 per week
 * £758 per month
@@ -57,8 +57,8 @@ From 6th July 2022 to 05th April 2023:
 #### **How much NI will employee and employer pay?**
 
 Employee’s National Insurance Contributions will be: **13.25%**  
-Employer’s National Insurance Contributions will be: **15.05%**  
-   
+Employer’s National Insurance Contributions will be: **15.05%**
+
 **Personal Allowance is £12,570 year.** However, it varies on your tax code.
 
 **Pension Threshold is £833/month.** An employee must be auto enrolled into workplace pension scheme if he’s earning more than £833 a month.
