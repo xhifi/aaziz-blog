@@ -12,24 +12,26 @@ tags:
 sidebar: ''
 
 ---
-HMRC interest rates for late payments will be revised following the Bank of England interest rate rise to 0.50%.
+#### Interest Rates for Late Payments:
 
-The Bank of England Monetary Policy Committee voted on 2 February 2022 to increase the Bank of England base rate to 0.50% from 0.25%.
+HMRC interest rates for late payments will be revised following the Bank of England interest rate rise to **0.50%**.
 
-Since HMRC interest rates are linked to the Bank of England base rate, the HMRC interest rates for late payment will get affected as well and increase accordingly. These changes will come into effect on:
+The Bank of England Monetary Policy Committee voted on **2 February 2022** to increase the Bank of England base rate to **0.50%** from **0.25%**.
 
-* 14 February 2022 for quarterly instalment payments
-* 21 February 2022 for non-quarterly instalments payments
+Since HMRC interest rates are linked to the Bank of England base rate, the HMRC interest rates for late payment will get affected as well and increase accordingly. _These changes will come into effect on:_
 
-while repayment interest rates stay unchanged.
+* 14 February 2022 for quarterly installment payments
+* 21 February 2022 for non-quarterly installments payments
 
-The current late payment and repayment interest rates applied to the main taxes and duties that HMRC currently charges and pays interest on are:
+#### Repayment interest rates:
+
+The repayment interest rates stay **unchanged**. The current late payment and repayment interest rates applied to the main taxes and duties that HMRC currently charges and pays interest on are:
 
 * Late payment interest rate — 3.0% from 21 February 2022
 * Repayment interest rate — 0.5% from 29 September 2009
 
-**_For Reference, please visit official GOV.UK forum through the following links:_**
+**_For Reference, please visit the official GOV.UK forum through the following links:_**
 
-GOV.UK | [HMRC late payment interest rates to be revised after Bank of England increases base rate](https://www.gov.uk/government/news/hmrc-late-payment-interest-rates-to-be-revised-after-bank-of-england-increases-base-rate--2)
+GOV.UK | [HMRC late payment interest rates to be revised after Bank of England increases the base rate](https://www.gov.uk/government/news/hmrc-late-payment-interest-rates-to-be-revised-after-bank-of-england-increases-base-rate--2)
 
 GOV.UK | [HMRC late payment and repayment interest rates](https://www.gov.uk/government/publications/rates-and-allowances-hmrc-interest-rates-for-late-and-early-payments/rates-and-allowances-hmrc-interest-rates)
