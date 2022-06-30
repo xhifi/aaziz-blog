@@ -54,14 +54,14 @@ From 6th July 2022 to 05th April 2023:
 * £4,189 per month
 * £50,270 per year
 
-#### **How much NI will employee and employer pay?**
+#### **How much NI will the employee and employer pay?**
 
 Employee’s National Insurance Contributions will be: **13.25%**  
 Employer’s National Insurance Contributions will be: **15.05%**
 
-**Personal Allowance is £12,570 year.** However, it varies on your tax code.
+**Personal Allowance is £12,570 per year.** However, it varies on your tax code.
 
-**Pension Threshold is £833/month.** An employee must be auto enrolled into workplace pension scheme if he’s earning more than £833 a month.
+**The pension Threshold is £833/month.** An employee must be auto-enrolled into a workplace pension scheme if he’s earning more than £833 a month.
 
 **National Insurance Threshold is £823 a month**. Employee earnings above £823 are subject to National Insurance Contributions.
 
