@@ -17,13 +17,13 @@ sidebar: ''
 
 A value-added tax (VAT) is collected on a product at every stage of its production during which value is added to it, from its initial production to the point of sale. The amount of VAT that the user pays is based on the cost of the product, less any costs of materials used in the product that has already been taxed at a previous stage.
 
-#### Curent Update:
+## Curent Update:
 
 From 1 October 2021 to 31 March 2022, the temporarily reduced rate will be increased from 5% to 12.5% and will then end so that affected supplies revert to 20% VAT from 1 April 2022.
 
 VAT-registered businesses in the hospitality industry will need to ensure that their tills and accounting systems are set up correctly to apply the increased rate of 12.5% from 1 October 2021 and then 20% from 1 April 2022
 
-##### Affected supplies:
+#### Affected supplies:
 
 As a reminder of those supplies to which the temporarily reduced rate applies:
 
