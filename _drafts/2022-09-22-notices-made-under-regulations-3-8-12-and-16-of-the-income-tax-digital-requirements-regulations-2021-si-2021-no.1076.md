@@ -39,3 +39,10 @@ A relevant person with trading income must provide the following update informat
 |  | Rent, rates, power, and insurance costs |
 |  | Repairs and maintenance of property and equipment |
 |  | Phone, fax, stationery, and other office costs |
+|  | Advertising and business entertainment costs |
+|  | Interest on bank and other loans |
+|  | Bank, credit card and other financial charges |
+|  | Irrecoverable debts written off |
+|  | Accountancy, legal and other professional fees |
+|  | Depreciation and loss or profit on sale of assets |
+|  | Other business expenses |
