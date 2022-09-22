@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Notices made under regulations 3, 8, 12 and 16 of the Income Tax (Digital Requirements)
   Regulations 2021 (SI 2021) No. 1076)
 subheading: The Commissioners for Her Majesty’s Revenue and Customs (HMRC) make the
