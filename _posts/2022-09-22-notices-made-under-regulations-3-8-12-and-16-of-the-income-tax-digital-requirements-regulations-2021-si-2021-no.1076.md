@@ -48,3 +48,5 @@ A relevant person with trading income must provide the following update informat
 |  | Other business expenses |
 
 ## Businesses with property income (income chargeable under Part 3 of ITTOIA)
+
+## Businesses with property income (income chargeable under Part 3 of ITTOIA)
