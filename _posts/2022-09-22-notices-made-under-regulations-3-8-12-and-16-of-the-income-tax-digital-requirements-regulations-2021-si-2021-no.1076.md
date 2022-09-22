@@ -33,7 +33,7 @@ A relevant person with trading income must provide the following update informat
 | Transactions that lead to business income | Transactions that lead to business expenses |
 | --- | :---: |
 | Turnover | Cost of goods bought for resale or goods used |
-| Other business income  | Construction industry – payments to subcontractors |
+| Other business income | Construction industry – payments to subcontractors |
 |  | Wages, salaries, and other staff costs |
 |  | Car, van, and travel expenses |
 |  | Rent, rates, power, and insurance costs |
@@ -46,3 +46,5 @@ A relevant person with trading income must provide the following update informat
 |  | Accountancy, legal and other professional fees |
 |  | Depreciation and loss or profit on sale of assets |
 |  | Other business expenses |
+
+## Businesses with property income (income chargeable under Part 3 of ITTOIA)
