@@ -26,9 +26,9 @@ The update information that must be provided in a quarterly update is dependent 
 
 A relevant person with trading income must provide the following update information in each quarterly update:
 
-1. quarterly period start date
-2. quarterly period end date
-3. totals of the amounts falling within the categories of transactions set out in the following table:
+* quarterly period start date
+* quarterly period end date
+* totals of the amounts falling within the categories of transactions set out in the following table:
 
 | Transactions that lead to business income | Transactions that lead to business expenses |
 | --- | :---: |
@@ -49,4 +49,18 @@ A relevant person with trading income must provide the following update informat
 
 ## Businesses with property income (income chargeable under Part 3 of ITTOIA)
 
-## Businesses with property income (income chargeable under Part 3 of ITTOIA)
+A relevant person with property income must provide the following update information in each quarterly update:
+
+* quarterly period start date
+* quarterly period end date
+* totals of the amounts falling within the categories of transactions set out in the following table:
+
+| Transactions that lead to business income | Transactions that lead to business expenses |
+| --- | :---: |
+| Total rents  | Rent, rates, insurance, ground rents |
+| Other income | Property repairs and maintenance |
+| Tax taken from total rents and other income from property | Residential property finance costs |
+| Premiums for the grant of a lease | Non-residential property finance costs |
+| Reverse premiums and inducements | Legal, management and other professional fees |
+|  | Costs of services provided, including wages |
+|  | Other allowable property expenses |
