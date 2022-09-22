@@ -30,12 +30,8 @@ A relevant person with trading income must provide the following update informat
 2. quarterly period end date
 3. totals of the amounts falling within the categories of transactions set out in the following table:
 
-| Tables   |      Are      |  Cool |
-
-|----------|:-------------:|------:|
-
-| col 1 is |  left-aligned | $1600 |
-
-| col 2 is |    centered   |   $12 |
-
-| col 3 is | right-aligned |    $1 |
+| Tables   |      Are      |  Cool | Title |
+|----------|:-------------:|------:|------:|
+| col 1 is |  left-aligned | $1600 | $12   |
+| col 2 is |    centered   |   $12 | $15   |
+| col 3 is | right-aligned |    $1 | $22   |
